@@ -6,8 +6,9 @@ Create a phonebook app that stores a name and a phone number for each entry:
 - implement at least the following functionality:
   * Adding a new entry;
   * Editing an existing entry (name or phone number);
-  * Deleting an entry by name;``
+  * Deleting an entry by name;
   * Displaying a list of existing entries;
+  * Search by name.
 
 
 ```mermaid
