@@ -12,7 +12,7 @@ Create a phonebook app that stores a name and a phone number for each entry:
 
 You may use [Python documentation](https://www.python.org/doc/) or other learning resourses, but not code examples (such as Stack Overflow) or AI tools (such as Copilot or ChatGPT).
 
-Split the tasks between the team members, implement function in a separate file and call functions when required.
+Split the tasks between the team members, implement each item from the list above as a separate function.
 
 Add reasonable commit messages, comment your code and add descriptions to your functions.
 ```python
@@ -21,7 +21,7 @@ def function_name():
  code
 ````
 
-Draw diagrams for each function and save them in Markdown files in project root (use [mermaid](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams) tool). Here is a sample digram of how the program starts.
+Draw an algorithm flowchart for each function and save them in Markdown files in project root (use [mermaid](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams) tool). Here is a sample digram of how the program starts.
 
 ```mermaid
 flowchart TD
